@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/diegoholiveira/jsonlogic/internal"
+	"github.com/hortau/jsonlogic/v3/internal"
 )
 
 func TestRulesFromJsonLogic(t *testing.T) {

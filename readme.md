@@ -1,7 +1,7 @@
 # Go JSON Logic
 
-[![Build Status](https://travis-ci.org/diegoholiveira/jsonlogic.svg)](https://travis-ci.org/diegoholiveira/jsonlogic)
-[![codecov](https://codecov.io/gh/diegoholiveira/jsonlogic/branch/master/graph/badge.svg)](https://codecov.io/gh/diegoholiveira/jsonlogic)
+[![Build Status](https://travis-ci.org/hortau/jsonlogic.svg)](https://travis-ci.org/diegoholiveira/jsonlogic)
+[![codecov](https://codecov.io/gh/hortau/jsonlogic/branch/master/graph/badge.svg)](https://codecov.io/gh/diegoholiveira/jsonlogic)
 
 
 Implementation of [JSON Logic](http://jsonlogic.com) in Go Lang.
@@ -26,7 +26,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic"
+	"github.com/hortau/jsonlogic/v3"
 )
 
 func main() {
@@ -55,7 +55,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/diegoholiveira/jsonlogic"
+	"github.com/hortau/jsonlogic/v3"
 )
 
 type (

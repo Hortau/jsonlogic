@@ -1,4 +1,4 @@
-module github.com/diegoholiveira/jsonlogic
+module github.com/hortau/jsonlogic/v3
 
 go 1.13
 
