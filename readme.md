@@ -1,7 +1,7 @@
 # Go JSON Logic
 
-[![Build Status](https://travis-ci.org/hortau/jsonlogic.svg)](https://travis-ci.org/diegoholiveira/jsonlogic)
-[![codecov](https://codecov.io/gh/hortau/jsonlogic/branch/master/graph/badge.svg)](https://codecov.io/gh/diegoholiveira/jsonlogic)
+[![Build Status](https://travis-ci.org/hortau/jsonlogic.svg)](https://travis-ci.org/hortau/jsonlogic)
+[![codecov](https://codecov.io/gh/hortau/jsonlogic/branch/master/graph/badge.svg)](https://codecov.io/gh/hortau/jsonlogic)
 
 
 Implementation of [JSON Logic](http://jsonlogic.com) in Go Lang.
